@@ -10,4 +10,4 @@ modified a bit by me.
 
 Here we do not consider thief return to the start node, but it can be implemented easily with a little modification in code.
 
-Plot shows profit gained from each city and green circle is starting point for thief.
+Plot shows profit gained from each city and green circle is starting point for thief. (for 280 cities and 5 items per city)
